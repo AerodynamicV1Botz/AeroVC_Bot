@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/SJMxADITI/TryMusic",
+    "repository": "https://github.com/AerodynamicV1Botz/AeroVC_Bot",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -24,18 +24,18 @@
         },
         "OWNER_NAME": {
             "description": "fill YOUR USERNAME WITHOUT '@' .",
-            "value": "ABHIISH3K_xD",
+            "value": "AerodynamicV1_OFFICIAL",
             "required": false
         },
         "ALIVE_NAME": {
             "description": "PUT YOUR BOT NAME .",
-            "value": "𝗛𝗘𝗥𝗢𝗫 𝗠𝗨𝗦𝗜𝗖",
+            "value": "AERO MUSIC",
             "required": false
             
         },
          "BOT_NAME": {
             "description": "PUT YOUR BOT NAME.",
-            "value": "𝗛𝗘𝗥𝗢𝗫 𝗠𝗨𝗦𝗜𝗖",
+            "value": "AERO MUSIC",
             "required": true
         },
          "DURATION_LIMIT": {
@@ -45,12 +45,12 @@
         },
         "GROUP_SUPPORT": {
             "description": "PUT YOUR group username without @.",
-            "value": "TrickyAbhii_Op",
+            "value": "AerodynamicV1_Promotion",
             "required": true
         },
         "UPDATES_CHANNEL": {
             "description": "PUT YOUR channel username without @.",
-            "value": "Techno_Trickop",
+            "value": "AerodynamicV1_UPDATE",
             "required": true
         },
     
