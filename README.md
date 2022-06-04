@@ -20,7 +20,7 @@
   
 ### Heroku Deployment
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://AerodynamicV1Botz/AeroVC_Bot/)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AerodynamicV1Botz/AeroVC_Bot)
   
   
 ###  Okteto Deployment
