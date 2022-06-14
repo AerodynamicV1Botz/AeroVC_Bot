@@ -75,7 +75,7 @@ async def start_private(client: Client, message: Message):
                         "• Free Promotion🚀", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "• Source Code", url=f"https://t.me/{}"
+                        "• Source Code", url=f"https://t.me/{https://github.com/AerodynamicV1Botz/AeroVC_Bot}"
                     ),
                 ],
                 [
