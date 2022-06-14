@@ -38,8 +38,8 @@ OMFO Gimme a star and follow me
   
 ### Developer
   
- <a href="https://heroku.com/deploy?template=https://github.com/AerodynamicV1Botz"><img src="https://img.shields.io/badge/pro%20 Anonymous-ReD.svg?style=for-the-badge&logo=Python"></a> 
-  <a href="https://t.me/AerodynamicV1_OFFICIAL"><img src="https://img.shields.io/badge/Piro%20 Abhishek-Green.svg?style=for-the-badge&logo=Python"></a>
+ <a href="https://heroku.com/deploy?template=https://github.com/AerodynamicV1Botz"><img src="https://img.shields.io/badge/pro%20 Follow.svg?style=for-the-badge&logo=Python"></a> 
+  <a href="https://t.me/AerodynamicV1_OFFICIAL"><img src="https://img.shields.io/badge/Piro%20 AerodynamicV1-Pro.svg?style=for-the-badge&logo=Python"></a>
 ## Support & Updates 
 <a href="https://t.me/AerodynamicV1_UPDATE"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/AerodynamicV1_Promotioñ"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
   
