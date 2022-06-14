@@ -67,20 +67,20 @@ async def start_private(client: Client, message: Message):
                 [InlineKeyboardButton(
                     "• Cᴏᴍᴍᴀɴᴅs", callback_data="cb_cmd"),],
                 [
-                    InlineKeyboardButton("Free Promotion🚀", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("👑Owner👑", url=f"https://t.me/{OWNER_NAME}"),
                     InlineKeyboardButton("Developer", url=f"https://t.me/AerodynamicV1_OFFICIAL"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "• Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "• Free Promotion🚀", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "• Uᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "• Source Code", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "• Sᴏᴜʀᴄᴇ Cᴏᴅᴇ •", url="https://github.com/AerodynamicV1Botz/AeroVC_Bot"
+                        "• New Update Or More✅ •", url="https://t.me/AerodynamicV1_UPDATE"
                     )
                 ],
             ]
