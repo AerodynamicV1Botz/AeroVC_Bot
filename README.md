@@ -26,25 +26,22 @@
 ###  Okteto Deployment
 
 <h4>Click the button below to deploy on Okteto!</h4>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/SJMxADITI/TrickyAbhi-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="250""/></a>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/AerodynamicV1Botz/AeroVC_Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="250""/></a>
 
   
 
   
-# TrickyAbhi-Music
+# AerodynamicV1-Music
 OMFO Gimme a star and follow me 
   
   
   
-### Noob Developers 
+### Developer
   
- <a href="https://github.com/AnonymousR1025"><img src="https://img.shields.io/badge/pro%20 Anonymous-ReD.svg?style=for-the-badge&logo=Python"></a> 
-
-<a href="https://t.me/herox_xd"><img src="https://img.shields.io/badge/Noob%20 Herox-ReD.svg?style=for-the-badge&logo=Python"></a> 
-  
-  <a href="https://t.me/ABHIISH3K_xD"><img src="https://img.shields.io/badge/Piro%20 Abhishek-Green.svg?style=for-the-badge&logo=Python"></a>
+ <a href="https://heroku.com/deploy?template=https://github.com/AerodynamicV1Botz"><img src="https://img.shields.io/badge/pro%20 Anonymous-ReD.svg?style=for-the-badge&logo=Python"></a> 
+  <a href="https://t.me/AerodynamicV1_OFFICIAL"><img src="https://img.shields.io/badge/Piro%20 Abhishek-Green.svg?style=for-the-badge&logo=Python"></a>
 ## Support & Updates 
-<a href="https://t.me/TrickyAbhii_Op"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Techno_Trickop"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/AerodynamicV1_UPDATE"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/AerodynamicV1_Promotioñ"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
   
 # Join crow frnd 
   
