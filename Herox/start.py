@@ -123,7 +123,7 @@ async def help(client: Client, message: Message):
     await message.reply_text(
         f"""✨ **Hello** {message.from_user.mention()} !
 » **press the button below to read the explanation and see the list of available commands !**
-⚡ __Powered by @AerodynamicV1_Promotion __""",
+⚡ __Powered by @AerodynamicV1_Promotion A.I__""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton(text="❓ Basic Guide", callback_data="cb_cmd")]]
         ),
@@ -135,7 +135,7 @@ async def ping_pong(client: Client, message: Message):
     start = time()
     m_reply = await message.reply_text("pinging...")
     delta_ping = time() - start
-    await m_reply.edit_text("🏓 Bot Alive #AeroMusic `PONG!!`\n" f"⚡️ `{delta_ping * 1000:.3f} ms`")
+    await m_reply.edit_text("🏓 Bot Alive #AeroX_Music `PONG!!`\n" f"⚡️ `{delta_ping * 1000:.3f} ms`")
 
 
 @Client.on_message(command(["uptime", f"uptime@{BOT_USERNAME}"]) & ~filters.edited)
