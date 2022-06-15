@@ -117,10 +117,10 @@ async def cb_basic(_, query: CallbackQuery):
         f"""𝙎𝙞𝙢𝙥𝙡𝙚 𝙘𝙤𝙢𝙢𝙖𝙣𝙙 
         
         
-•  /play '(song name)'
+•  /play '(song name )'
 •  /vplay '(song name)'
 •  /song '(song name)' 
-•  /vsong or /video '(song name)'
+•  /video '(song name)'
 •  /vstream '(song name)'
 •  /skip - skip the current song
 •  /end Or /stop- stop music play
