@@ -75,7 +75,7 @@ async def start_private(client: Client, message: Message):
                         "• Free Promotion🚀", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "• Update", url=f"https://t.me/{CHANNEL_UPDATE}"
+                        "• Update", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [
