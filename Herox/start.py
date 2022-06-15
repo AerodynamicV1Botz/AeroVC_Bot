@@ -75,12 +75,15 @@ async def start_private(client: Client, message: Message):
                         "• Free Promotion🚀", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "• Source Code", url=f"https://github.com/{AerodynamicV1Botz/AeroVC_Bot}"
+                        "• Update", url=f"https://t.me/{CHANNEL_UPDATE}"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "• New Update Or More✅ •", url="https://t.me/AerodynamicV1_UPDATE"
+                        "• Source Code •", url="https://github.com/AerodynamicV1Botz/AeroVC_Bot"
+                    ),
+                    InlineKeyboardButton(
+                        "• Instagram", url="https://instagram.com/aerodynamicv1_official?utm_medium=copy_link"
                     )
                 ],
             ]
@@ -123,7 +126,7 @@ async def help(client: Client, message: Message):
     await message.reply_text(
         f"""✨ **Hello** {message.from_user.mention()} !
 » **press the button below to read the explanation and see the list of available commands !**
-⚡ __Powered by @AerodynamicV1_OFFICIAL A.I__""",
+⚡ __Powered by @AerodynamicV1_UPDATE A.I__""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton(text="❓ Basic Guide", callback_data="cb_cmd")]]
         ),
