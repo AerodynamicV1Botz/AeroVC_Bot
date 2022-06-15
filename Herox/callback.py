@@ -119,6 +119,8 @@ async def cb_basic(_, query: CallbackQuery):
         
 •  /play '(song name)'
 •  /vplay '(song name)'
+•  /song '(song name)' 
+•  /vsong or /video '(song name)'
 •  /vstream '(song name)'
 •  /skip - skip the current song
 •  /end Or /stop- stop music play
@@ -126,7 +128,6 @@ async def cb_basic(_, query: CallbackQuery):
 •  /resume - resume song play
 •  /mute - mute assistant in vc
 •  /lyrics '(song name)'
-•  /video '(song name)'
 
 ⚡ Powered By [🇮🇳AerodynamicV1 OFFICIAL🇮🇳](https://t.me/AerodynamicV1_OFFICIAL) .""",
         reply_markup=InlineKeyboardMarkup(
