@@ -65,7 +65,7 @@ async def start_private(client: Client, message: Message):
                     )
                 ],
                 [InlineKeyboardButton(
-                    "[►New Update Or More✅◄]", url=f"https://t.me/{UPDATES_CHANNEL}"),],
+                    "[►New Update Or More🔔◄]", url=f"https://t.me/{UPDATES_CHANNEL}"),],
                 [
                     InlineKeyboardButton("👑Owner👑", url=f"https://t.me/{OWNER_NAME}"),
                     InlineKeyboardButton("[►Developer◄]", url=f"https://t.me/AerodynamicV1_OFFICIAL"),
