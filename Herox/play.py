@@ -131,8 +131,8 @@ async def play(c: Client, m: Message):
                       InlineKeyboardButton('⏭️', callback_data="skip"),
                       InlineKeyboardButton("▶️", callback_data="cbresume"),
                   ],[
-                      InlineKeyboardButton("• Cʜᴀɴɴᴇʟ", url=f"https://t.me/AerodynamicV1_UPDATE"),
-                      InlineKeyboardButton("• Group", url=f"https://t.me/AerodynamicV1_Promotion"),
+                      InlineKeyboardButton("[►Channel🔔◄]", url=f"https://t.me/AerodynamicV1_UPDATE"),
+                      InlineKeyboardButton("[►Group💬◄]", url=f"https://t.me/AerodynamicV1_Promotion"),
                   ],[
                       InlineKeyboardButton("🗑 Close", callback_data="cls")],
                   ]
@@ -246,8 +246,8 @@ async def play(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("~ Channel ~", url=f"https://t.me/AerodynamicV1_UPDATE"),
-                            InlineKeyboardButton("~ Support ~", url=f"https://t.me/AerodynamicV1_Promotion")
+                            InlineKeyboardButton("[►Channel🔔◄]", url=f"https://t.me/AerodynamicV1_UPDATE"),
+                            InlineKeyboardButton("[►Group💬◄]", url=f"https://t.me/AerodynamicV1_Promotion")
                         ],
                         [
                             InlineKeyboardButton("🗑 Close", callback_data="cls")
