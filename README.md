@@ -1,4 +1,9 @@
-<h1 align="center"><b>AERO-MUSIC</b></h1>
+<p align="center">
+    <br><b>🎧Aero Music Player🎶</b><br>
+</p>
+<p align="center"><a href="https://t.me/AerodynamicV1_Promotion"><img src="https://telegra.ph//file/c6d7af5a8dc30ea72764f.jpg"></a></p>
+
+🎧Aero Music Player🎵 is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
 
 # down
