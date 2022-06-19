@@ -51,39 +51,39 @@ async def _human_time_duration(seconds):
 )
 async def start_private(client: Client, message: Message):
  await message.reply_photo(
-        photo=f"https://telegra.ph/Aero-Music-Player-06-14",
+        photo=f"https://telegra.ph//file/c6d7af5a8dc30ea72764f.jpg",
         caption=f"""ʜᴇʟʟᴏ✨ **ᴡᴇʟᴄᴏᴍᴇ {message.from_user.mention()} !**\n
  **ɪ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜsɪᴄ ɪɴ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄᴀʟʟ !!**
  **ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘʀᴏᴍᴏᴛᴇ 💫**
- **ғᴏʀ ᴀɴʏ ʜᴇʟᴘ ᴊᴏɪɴ @AerodynamicV1_UPDATE**""",
+ **ғᴏʀ ᴀɴʏ ʜᴇʟᴘ ᴊᴏɪɴ [🇮🇳AerodynamicV1 Update🇮🇳](https://t.me/AerodynamicV1_UPDATE)**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "⛓ Aᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ Gʀᴏᴜᴘ",
+                        "➕Add Me To Your Chat➕",
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
                 [InlineKeyboardButton(
-                    "• Cᴏᴍᴍᴀɴᴅs", callback_data="cb_cmd"),],
+                    "[►Commands◄]", callback_data="cb_cmd"),],
                 [
                     InlineKeyboardButton("👑Owner👑", url=f"https://t.me/{OWNER_NAME}"),
-                    InlineKeyboardButton("Developer", url=f"https://t.me/AerodynamicV1_OFFICIAL"),
+                    InlineKeyboardButton("[►Developer◄]", url=f"https://t.me/AerodynamicV1_OFFICIAL"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "• Free Promotion🚀", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "[►Support💬◄]", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "• Update", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "[►Update◄]", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "• Source Code •", url="https://github.com/AerodynamicV1Botz/AeroVC_Bot"
+                        "[►Source Code◄]", url="https://github.com/AerodynamicV1Botz/AeroVC_Bot"
                     ),
                     InlineKeyboardButton(
-                        "• Instagram", url="https://instagram.com/aerodynamicv1_official?utm_medium=copy_link"
+                        "[►Instagram1◄]", url="https://instagram.com/aerodynamicv1_official?utm_medium=copy_link"
                     )
                 ],
             ]
@@ -102,9 +102,9 @@ async def start_group(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("• Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),
+                InlineKeyboardButton("[►Support💬◄]", url=f"https://t.me/{GROUP_SUPPORT}"),
                 InlineKeyboardButton(
-                    "• Uᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}"
+                    "[►Update◄]", url=f"https://t.me/{UPDATES_CHANNEL}"
                 ),
             ]
         ]
@@ -138,7 +138,7 @@ async def ping_pong(client: Client, message: Message):
     start = time()
     m_reply = await message.reply_text("pinging...")
     delta_ping = time() - start
-    await m_reply.edit_text("🏓 Bot Alive #Aero_Music_Player `PONG!!`\n" f"⚡️ `{delta_ping * 1000:.3f} ms`")
+    await m_reply.edit_text("🏓 Bot Alive #AeroVC_Bot `PONG!!`\n" f"⚡️ `{delta_ping * 1000:.3f} ms`")
 
 
 @Client.on_message(command(["uptime", f"uptime@{BOT_USERNAME}"]) & ~filters.edited)
