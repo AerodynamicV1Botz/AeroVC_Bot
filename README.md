@@ -5,17 +5,11 @@
 
 🎧Aero Music Player🎵 is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
-
-# down
-  <details>
-<summary><b>🔗 Session String</b></summary>
-<br>
-
 > You'll need a [API_ID](https://my.telegram.org/auth) & [API_HASH](https://my.telegram.org/auth) in order to generate pyrogram session string. 
 > Always remember to use good API combo else your account could be deleted.
 
-<h4> Generate Session via Repl.it: </h4>    
-<p><a href="https://replit.com/@SJMxADITI/TrickyAbhi-Music?lite=1&outputonly=1#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="350""/></a></p>
+<h4> Generate String Session : </h4>    
+<p><a href="https://telegram.me/YukkiStringBot?lite=1&outputonly=1#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="350""/></a></p>
 
 </details>
 
@@ -34,11 +28,8 @@
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/AerodynamicV1Botz/AeroVC_Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="250""/></a>
 
   
-
-  
 # AerodynamicV1-Music
-OMFO Gimme a star and follow me 
-  
+OMFO Gimme a star and follow me
   
   
 ### Developer
@@ -48,9 +39,14 @@ OMFO Gimme a star and follow me
 ## Support & Updates 
 <a href="https://t.me/AerodynamicV1_UPDATE"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/AerodynamicV1_Promotioñ"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
   
-# Join crow frnd 
-  
-  
-- Click Here 👇🏻 And join pls 
-  
-  [![Herox](https://telegra.ph/file/39e17ab3a96207d3e15ac.jpg)](https://t.me/aboutez)
+## ᴄʀᴇᴅɪᴛs 💖
+- [🇮🇳AerodynamicV1 Official🇮🇳](https://github.com/AerodynamicV1Botz): Developer
+- [🎧Aero Music Player🎵](https://telegram.me/Aero_MusicBot): Test Bot
+
+### Support & Developer 🎑
+<a href="https://telegram.me/AerodynamicV1_UPDATE"><img src="https://img.shields.io/badge/-UPDATE%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/AerodynamicV1_Promotion"><img src="https://img.shields.io/badge/-SUPPORT%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/AerodynamicV1_OFFICIAL"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+------------------------------------------------
+-------------------------------------------------
