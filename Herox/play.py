@@ -241,7 +241,7 @@ async def play(c: Client, m: Message):
         if len(m.command) < 2:
          await m.reply_photo(
                      photo=f"{IMG_5}",
-                    caption="💬**Usage: /play Give a Title Song To Play Music or join @aboutez**"
+                    caption="💬**Usage: /play Give a Title Song To Play Music or join @AerodynamicV1_UPDATE**"
                     ,
                       reply_markup=InlineKeyboardMarkup(
                     [
