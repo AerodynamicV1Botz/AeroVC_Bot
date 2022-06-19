@@ -65,7 +65,7 @@ async def start_private(client: Client, message: Message):
                     )
                 ],
                 [InlineKeyboardButton(
-                    "[►Commands◄]", callback_data="cb_cmd"),],
+                    "[►New Update Or More✅◄]", url=f"https://t.me/{UPDATES_CHANNEL}"),],
                 [
                     InlineKeyboardButton("👑Owner👑", url=f"https://t.me/{OWNER_NAME}"),
                     InlineKeyboardButton("[►Developer◄]", url=f"https://t.me/AerodynamicV1_OFFICIAL"),
@@ -75,7 +75,7 @@ async def start_private(client: Client, message: Message):
                         "[►Support💬◄]", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "[►Update◄]", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "[►Commands◄]", callback_data="cb_cmd"
                     ),
                 ],
                 [
@@ -104,7 +104,7 @@ async def start_group(client: Client, message: Message):
             [
                 InlineKeyboardButton("[►Support💬◄]", url=f"https://t.me/{GROUP_SUPPORT}"),
                 InlineKeyboardButton(
-                    "[►Update◄]", url=f"https://t.me/{UPDATES_CHANNEL}"
+                    "[►Update🔔◄]", url=f"https://t.me/{UPDATES_CHANNEL}"
                 ),
             ]
         ]
