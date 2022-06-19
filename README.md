@@ -35,8 +35,7 @@
 - [🎧Aero Music Player🎵](https://telegram.me/AeroVC_Bot): Test Bot
 
 ### Support & Developer 🎑
-<a href="https://heroku.com/deploy?template=https://github.com/AerodynamicV1Botz"><img src="https://img.shields.io/badge/pro%20 Follow.svg?style=for-the-badge&logo=Python"></a>
-<a href="https://t.me/AerodynamicV1_OFFICIAL"><img src="https://img.shields.io/badge/AerodynamicV1~🇮🇳.svg?style=for-the-badge&logo=Python"></a>
+
 <a href="https://telegram.me/AerodynamicV1_UPDATE"><img src="https://img.shields.io/badge/-UPDATE%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://telegram.me/AerodynamicV1_Promotion"><img src="https://img.shields.io/badge/-SUPPORT%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://telegram.me/AerodynamicV1_OFFICIAL"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
