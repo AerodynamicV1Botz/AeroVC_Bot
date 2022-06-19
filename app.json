@@ -1,7 +1,7 @@
 {
-    "name": "TrickyAbhi-Music",
-    "logo": "",
-    "description": "TrickyAbhi-Music allow you to stream music trought the telegram voice chat feature.",
+    "name": "AeroVC-Bot",
+    "logo": "https://telegra.ph//file/c6d7af5a8dc30ea72764f.jpg",
+    "description": "AeroVC_Bot allow you to stream music trought the telegram voice chat feature.",
     "keywords": [
         "music", 
         "voice chat", 
@@ -29,18 +29,18 @@
         },
         "ALIVE_NAME": {
             "description": "PUT YOUR BOT NAME .",
-            "value": "AERO MUSIC",
+            "value": "Aero Music Player",
             "required": false
             
         },
          "BOT_NAME": {
             "description": "PUT YOUR BOT NAME.",
-            "value": "AERO MUSIC",
+            "value": "Aero Music Player",
             "required": true
         },
          "DURATION_LIMIT": {
             "description": "PUT YOUR BOT duration time.",
-            "value": "70",
+            "value": "360",
             "required": true
         },
         "GROUP_SUPPORT": {
@@ -68,7 +68,7 @@
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space) .",
-            "value": "5124507794 5198403647",
+            "value": "1484735126, 1431050884",
             "required": true
         }
         
