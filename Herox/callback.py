@@ -59,14 +59,14 @@ async def cb_start(_, query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton(
-                        "⛓ Aᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ Gʀᴏᴜᴘ",
+                        "➕Add Me To Your Chat➕",
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
                 [InlineKeyboardButton(
-                    "[►Commands◄]", callback_data="cb_cmd"),],
+                    "[►New Update Or More🔔◄]", url=f"https://t.me/{UPDATES_CHANNEL}"),],
                 [
-                    InlineKeyboardButton("[►Owner◄]", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("[►👑Owner👑◄]", url=f"https://t.me/{OWNER_NAME}"),
                     InlineKeyboardButton("[►Developer◄]", url=f"https://t.me/AerodynamicV1_OFFICIAL"),
                
                 [
@@ -74,12 +74,12 @@ async def cb_start(_, query: CallbackQuery):
                         "[►Support💬◄]", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "[►Update🔔◄]", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "[►Commands◄]", callback_data="cb_cmd"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "[►Source Code◄]", url="https://github.com/SJMxADITI/TrickyMusic"
+                        "[►Source Code◄]", url="https://github.com/AerodynamicV1Botz/AeroVC_Bot"
                     )
                 ],
             ]
