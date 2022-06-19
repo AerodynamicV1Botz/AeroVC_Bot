@@ -51,10 +51,10 @@ async def cbmenu(_, query: CallbackQuery):
 @Client.on_callback_query(filters.regex("cb_start"))
 async def cb_start(_, query: CallbackQuery):
     await query.edit_message_text(
-       f"""ʜᴇʟʟᴏ [✨](https://telegra.ph/Aero-Music-Player-06-14) **ᴡᴇʟᴄᴏᴍᴇ [{query.message.chat.first_name}](tg://user?id={query.message.chat.id}) !**\n
+       f"""ʜᴇʟʟᴏ [✨](https://telegra.ph//file/c6d7af5a8dc30ea72764f.jpg) **ᴡᴇʟᴄᴏᴍᴇ [{query.message.chat.first_name}](tg://user?id={query.message.chat.id}) !**\n
  **ɪ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜsɪᴄ ɪɴ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄᴀʟʟ !!**
  **ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘʀᴏᴍᴏᴛᴇ 💫**
- **ғᴏʀ ᴀɴʏ ʜᴇʟᴘ ᴊᴏɪɴ @AerodynamicV1_Promotion**""",
+ **ғᴏʀ ᴀɴʏ ʜᴇʟᴘ ᴊᴏɪɴ [🇮🇳AerodynamicV1 Update🇮🇳](https//t.me/AerodynamicV1_UPDATE)**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -64,22 +64,22 @@ async def cb_start(_, query: CallbackQuery):
                     )
                 ],
                 [InlineKeyboardButton(
-                    "• Cᴏᴍᴍᴀɴᴅs", callback_data="cb_cmd"),],
+                    "[►Commands◄]", callback_data="cb_cmd"),],
                 [
-                    InlineKeyboardButton("• Oᴡɴᴇʀ", url=f"https://t.me/{OWNER_NAME}"),
-                    InlineKeyboardButton("• Dᴇᴠᴇʟᴏᴘᴇʀ ", url=f"https://t.me/herox_xd"),
+                    InlineKeyboardButton("[►Owner◄]", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("[►Developer◄]", url=f"https://t.me/AerodynamicV1_OFFICIAL"),
+               
+                [
+                    InlineKeyboardButton(
+                        "[►Support💬◄]", url=f"https://t.me/{GROUP_SUPPORT}"
+                    ),
+                    InlineKeyboardButton(
+                        "[►Update🔔◄]", url=f"https://t.me/{UPDATES_CHANNEL}"
+                    ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "• Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"
-                    ),
-                    InlineKeyboardButton(
-                        "• Uᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}"
-                    ),
-                ],
-                [
-                    InlineKeyboardButton(
-                        "• Sᴏᴜʀᴄᴇ Cᴏᴅᴇ •", url="https://github.com/SJMxADITI/TrickyMusic"
+                        "[►Source Code◄]", url="https://github.com/SJMxADITI/TrickyMusic"
                     )
                 ],
             ]
@@ -119,8 +119,8 @@ async def cb_basic(_, query: CallbackQuery):
         
 •  /play '(song name )'
 •  /vplay '(song name)'
-•  /song '(song name)' 
-•  /video '(song name)'
+•  /song  [Track Name] or [YT Link] - Download any track from youtube in Audio formats
+•  /song  [Track Name] or [YT Link] - Download any track from youtube in Video formats
 •  /vstream '(song name)'
 •  /skip - skip the current song
 •  /end Or /stop- stop music play
@@ -140,8 +140,8 @@ async def cb_basic(_, query: CallbackQuery):
 async def cb_advance(_, query: CallbackQuery):
     await query.edit_message_text(    
       f"""𝙀𝙭𝙩𝙧𝙖 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨
-• /ping pong !!
-• /start - Alive msg ~group 
+• /ping- Ping the Bot and check Ram, Cpu etc stats of Bot.
+• /start - Start the Music Bot.
 • /id - Find out your grp and your id // stickers id also
 • /uptime - 💻
 • /rmd clean all downloads
@@ -157,12 +157,16 @@ async def cb_advance(_, query: CallbackQuery):
 @Client.on_callback_query(filters.regex("cb_fun"))
 async def cb_fun(_, query: CallbackQuery):
     await query.edit_message_text(  
-        f"""𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨
-• /truth ✅
-• /dare  😇
-• /sjm    🌝
-• /Aero   🎶
-• /AerodynamicV1 🇮🇳 
+        f"""**__About__**
+**About This Bot**
+
+A telegram Vc Player bot Made By [🇮🇳AerodynamicV1 OFFICIAL🇮🇳](https://t.me/AerodynamicV1_OFFICIAL)
+
+Source Code : [Click Here](https://github.com/AerodynamicV1Botz/Force-Subscribe-Bot)
+
+Join👉 [New Update or More✅](https://t.me/AerodynamicV1_UPDATE)
+Join👉 [Free Promotion🚀](https://t.me/AerodynamicV1_Promotion)
+Developer : @AerodynamicV1_OFFICIAL
 
 ⚡ Powered By [🇮🇳AerodynamicV1 OFFICIAL🇮🇳](https://t.me/AerodynamicV1_OFFICIAL) .""",
         reply_markup=InlineKeyboardMarkup(
