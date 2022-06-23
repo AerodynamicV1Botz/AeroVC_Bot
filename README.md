@@ -9,7 +9,7 @@
 > Always remember to use good API combo else your account could be deleted.
 
 <h4> Generate String Session : </h4>    
-<p><a href="https://telegram.me/YukkiStringBot?lite=1&outputonly=1#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="350""/></a></p>
+<p><a href="https://telegram.me/String_Session_Generater_AeroBot?lite=1&outputonly=1#main.py"><img src="https://img.shields.io/badge/Generate%150n%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="250""/></a></p>
 
 </details>
 
